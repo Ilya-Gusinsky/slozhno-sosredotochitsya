@@ -20,6 +20,7 @@
   display: grid;
   grid-template-rows: auto max-content auto;
   align-items: center;
+  block-size: 100%;
 }
 
 .header__theme-menu {
@@ -405,6 +406,7 @@
   justify-content: center;
   margin-block-start: 42px;
   margin-inline-start: 3px;
+  block-size: 100%;
 }
 
 .footer__titile {
