@@ -12,10 +12,12 @@
   --bg-main-color: #fff1f7;
   --heading-text-color: #353430;
   --header-title-color: #ffc2e6;
+  --decorated-zone:#353430;
   --decoration-color: #ff8dcb;
   --menu-button-color: #353430;
   --main-title-shadow-color: #ff0070;
-  --heading-text-color-noBold: #353430;
+  --link-shadow: #FF8DCB;
+  --heading-text-color-no-bold: #353430;
   --menu-botton-color-hover: rgba(50, 49, 45, 0.4);
   --paragraph-font-color: #353430;
   --underline-link-color: #353430;
@@ -30,13 +32,18 @@
     --bg-main-color: #fff1f7;
     --heading-text-color: #353430;
     --header-title-color: #ffc2e6;
+    --decorated-zone:#353430;
     --decoration-color: #ff8dcb;
     --menu-button-color: #353430;
     --main-title-shadow-color: #ff0070;
-    --heading-text-color-noBold: #353430;
+    --link-shadow: #FF8DCB;
+    --heading-text-color-no-bold: #353430;
     --menu-botton-color-hover: rgba(50, 49, 45, 0.4);
     --paragraph-font-color: #353430;
     --underline-link-color: #353430;
     --bg-image: url(../images/cover-image-light.png);
+  }
+   .decoration {
+    display: none;
   }
 }

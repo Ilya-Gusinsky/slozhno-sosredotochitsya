@@ -12,28 +12,15 @@
   --bg-main-color: #000028;
   --heading-text-color: #000028;
   --header-title-color: #db00ff;
+  --decorated-zone:#ff0070;
   --decoration-color: #ff0070;
   --menu-button-color: #ff0070;
   --main-title-shadow-color: #ff0070;
-  --heading-text-color-noBold: #ff0070;
+  --link-shadow:#ff0070;
+  --heading-text-color-no-bold: #ff0070;
   --menu-botton-color-hover: rgba(255, 0, 112, 0.4);
   --paragraph-font-color: #f1b2ce;
   --underline-link-color: #f1b2ce;
   --bg-image: url(../images/cover-image-dark.png);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-main-color: #000028;
-    --heading-text-color: #000028;
-    --header-title-color: #db00ff;
-    --decoration-color: #ff0070;
-    --menu-button-color: #ff0070;
-    --main-title-shadow-color: #ff0070;
-    --heading-text-color-noBold: #ff0070;
-    --menu-botton-color-hover: rgba(255, 0, 112, 0.4);
-    --paragraph-font-color: #f1b2ce;
-    --underline-link-color: #f1b2ce;
-    --bg-image: url(../images/cover-image-dark.png);
-  }
-}
